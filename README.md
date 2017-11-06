@@ -23,6 +23,6 @@ Setting up Git for the first time / first use: https://git-scm.com/book/en/v2/Ge
 
 Further reading if still need assistance downloading Git: https://www.atlassian.com/git/tutorials/install-git
 
-*Also, if using the terminal is really not your thing, Github does have a downloadable GUI applications for all operating systems for more visual representations of repositories, branches - you name it: https://git-scm.com/downloads/guis/
+*Also, if using the terminal is really not your thing, Git does have a downloadable GUI applications for all operating systems for more visual representations of repositories, branches - you name it: https://git-scm.com/downloads/guis/
 
 
