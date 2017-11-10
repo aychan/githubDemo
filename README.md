@@ -5,6 +5,8 @@ M5 Makerday event to practice & learn useful aspects of Git Version Control.
 
 TLDR: http://rogerdudler.github.io/git-guide/
 
+TLDR2: (Git Cheatsheet) https://www.git-tower.com/blog/git-cheat-sheet/
+
 Branching & Merging https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
 Pull Requests https://www.atlassian.com/git/tutorials/making-a-pull-request
